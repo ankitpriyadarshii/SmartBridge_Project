@@ -1,7 +1,7 @@
 Steps to Run the 'app.py' in flask
 
 
-1. To navigate to the directory in Anaconda Prompt or PyCharm terminal in which the 'app.py' file is stored.
+1. Navigate to the directory in Anaconda Prompt or PyCharm terminal in which the 'app.py' file is stored.
 
 2. Run the Flask application using the command: 'python app.py'
 
